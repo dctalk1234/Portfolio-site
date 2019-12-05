@@ -1,4 +1,25 @@
-h1 {
-  display: inline-block;
+.project {
+  height: 400px;
+  margin: 0px 20%;
+}
+
+.project .card {
+  margin: 0px 50px;
+  width: 300px;
+  height: 400px;
+  float: left;
+}
+
+.project ul {
+  list-style-type: none;
+  font-size: 23px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.title {
+  font-size: 30px;
 }
 /*# sourceMappingURL=style.css.map */
